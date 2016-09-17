@@ -2,6 +2,7 @@ package com.practice.solutions;
 
 public class HornerMethod {
 
+
     public static void main(String[] args) {
         String input = "name";
         HornerMethod obj = new HornerMethod();
